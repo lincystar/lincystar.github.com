@@ -15,11 +15,9 @@ comments: no
 ###联系方式：        
 
 个人邮箱: [lincystar@gmail.com](mailto:lincystar@gmail.com)     
-新浪微博: [普林印象](http://weibo.com/u/2553433143)	 
-豆瓣：[宁静甸甸](http://www.douban.com/people/49131083/)    
-github : [lincystar](https://github.com/lincystar)        
+新浪微博: [普林印象](http://weibo.com/u/2553433143)
+豆瓣：[宁静甸甸](http://www.douban.com/people/49131083/)         
 
 ----
 
-
-[![新浪微博](http://service.t.sina.com.cn/widget/qmd/1713195262/f78fbcd2/1.png)](http://weibo.com/u/1713195262?s=6uyXnP)
+![L.ZHAO](http://b266.photo.store.qq.com/psb?/V14KDO2v2hCTxk/AMCyRHJMZa1vQDs51TjwTfJQHdL0sm1iJWfPyrIp*uQ!/b/dBg0mp7xHgAA&bo=IAMVAgAAAAABABM!)
