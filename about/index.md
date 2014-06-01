@@ -19,5 +19,4 @@ comments: no
 豆瓣：[宁静甸甸](http://www.douban.com/people/49131083/)         
 
 ----
-
-![L.ZHAO](http://b266.photo.store.qq.com/psb?/V14KDO2v2hCTxk/AMCyRHJMZa1vQDs51TjwTfJQHdL0sm1iJWfPyrIp*uQ!/b/dBg0mp7xHgAA&bo=IAMVAgAAAAABABM!)
+![lzhao](/assets/images/lz.jpg)
