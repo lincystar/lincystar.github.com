@@ -19,6 +19,8 @@ tags: [职称评审材料]
 
 [评中级职称工作总结](http://wenku.baidu.com/link?url=ow__ul_M-ZkEfZu44kxI45NUGtYQZiK8KuMjUlPSNdULamXT_5XZPhRBL85_QGVpMSHOMkLKWLe9man91-tcfigNkSgueFjr3p2DCXeKCR3)
 
+[电力系统中级职称申报工作总结](http://wenku.baidu.com/view/c4abd5878762caaedd33d420.html)
+
 
 ----
 # H-a-y-sen 个人资料 #
