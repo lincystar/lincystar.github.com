@@ -1,9 +1,9 @@
 ---
 layout: post
 title:"读书心情"
+description: "ideas"
 category: essay
 tags: [reading]
-description: ideas
 ---
 
 很久没有读书了，因为没有读书的心境。
