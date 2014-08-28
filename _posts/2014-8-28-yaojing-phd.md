@@ -5,10 +5,18 @@ description: "第6篇博客"
 category: essay
 tags: [攻读博士研究生]
 ---
+> The ultimate goal of a graduate student is to stop being a graduate student, namely to finish. The best way to go directly toward this ultimate goal is to approach all your work in a professional and business-like manner.** Graduate study is a job that requires self-discipline.**
 
-晚上看了姚静老师的博客。
+很久了，我一直希望自己能快点毕业，工作。但是，由于自己十分拖拉，懒散，不专注在研究上，一直没有成果，自己对科研失去了当初的兴趣，甚至博士毕业也成了头疼的难题。究其原因，就是自己不够自律。
 
-每次比较仔细地阅读她的博客，我就备受鼓舞。
+我想工作，殊不知，研究生阶段的学习本身就是一份工作，是一份对自身要求更高，“薪水低”的工作。多么遗憾，研究生6年过去了，我一无所获，却养成了懒散拖拉的坏习惯。因为懒散拖拉，导致迟迟没有成果，心情也一直不好，直接影响毕业和找工作，进入恶性循环。
+
+解决问题，在我自己，因为问题在自己。矛盾出于内在。
+
+
+晚上看了姚静老师的博客[书尧成长记录的博客](blog.sina.com.cn/shuyao730)。
+
+每次比较仔细地阅读她的博客，我都备受鼓舞。
 
 姚静老师80年出生，南大本硕毕业，在河海工作了几年，2009年8月去ASU读博士。2013年1月毕业。
 
@@ -18,7 +26,7 @@ tags: [攻读博士研究生]
 
 他们一家三口，真的好幸福。
 
-我未曾见过姚静老师和小书，只从她的博客[书尧成长记录的博客](blog.sina.com.cn/shuyao730)上看到过她们的照片；在水文院的一次会议上，见过张老师，很年轻，看起来很有魅力。
+我未曾见过姚静老师和小书，只从她的博客上看到过她们的照片；在水文院的一次会议上，见过张老师，很年轻，看起来很有魅力。
 
 有追求，有规划，有魄力，有毅力。独立的女性，伟大的女性。
 
@@ -46,4 +54,3 @@ Reading provides the seeds that will yield the new research concepts, plans and 
 
 一个研究生的最终目标是停止做一个研究生，也就是要完成它。
 
-> The ultimate goal of a graduate student is to stop being a graduate student, namely to finish. The best way to go directly toward this ultimate goal is to appraoch all your work in a professional and business-like manner.** Graduate study is a job that requires self-discipline.**
