@@ -1,3 +1,11 @@
+---
+layout: post
+title: "放轻松"
+description: "顺其自然"
+category: essay
+tags: [心态放轻松，放平和]
+---
+
 昨天在家休息了一天，睡到下午。后来看了会儿电视。
 
 终于算是休息过来了。

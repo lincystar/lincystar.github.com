@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Drum Tower Hospital 乳腺检查"
+description: "体检"
+category: essay
+tags: [体检乳腺]
+---
+
 昨天开始去鼓楼医院，检查身体。
 
 乳腺小叶增生。 拍了彩超。现在女性，乳腺癌，宫颈癌，子宫癌怎么那么多？
