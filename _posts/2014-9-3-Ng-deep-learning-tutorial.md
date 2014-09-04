@@ -1,7 +1,7 @@
 ---
 layout:post
 title: 吴恩达及深度学习研究小结【本文需更新和完善】
-category: 
+category: 深度学习
 tags:Ng，深度学习，人工大脑,人工智能
 ---
 
@@ -78,7 +78,6 @@ Andrew Ng 的 Deep Learning 教程已经被一些中国的志愿者翻译成中�
 ## 神经网络研究教父
 Geoffrey Hinton,加拿大多伦多大学教授。
 
-
 ## 参考文献
 
 
@@ -89,4 +88,6 @@ Geoffrey Hinton,加拿大多伦多大学教授。
 - [谷歌正在如何复制人类大脑](http://www.huxiu.com/article/13868/1.html)
 
 - [百度世界大会今日举行聚焦三大热点](http://china.haiwainet.cn/n/2014/0903/c345646-21039694.html)
+
+
 - 
