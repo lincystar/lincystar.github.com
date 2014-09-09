@@ -2,6 +2,7 @@
 layout: post
 title: dream of beast
 category: life
+tags: eary work; wake up;dream
 
 ---
 
