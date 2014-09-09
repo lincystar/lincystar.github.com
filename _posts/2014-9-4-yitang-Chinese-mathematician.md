@@ -1,3 +1,11 @@
+---
+layout: post
+title: About 张易唐 [摘抄]
+category: well-known people
+tags: mathematician  Yitang Zhang  
+---
+
+
 ## 张易唐
 
 >成名后的张益唐仍像过去一样低调淡定。他说：**“我的心很平静。我不大关心金钱和荣誉，我喜欢静下来做自己想做的事情。”**
