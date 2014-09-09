@@ -2,7 +2,7 @@
 layout: post
 title: 梦回Vegas
 category: life
-tags: dream, Vegas
+tags: dream  Vegas
 ---
 
 ## 梦回Vegas ##
