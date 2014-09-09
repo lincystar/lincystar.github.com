@@ -1,3 +1,10 @@
+---
+layout: post
+title: nightmare wake up
+category: dream  early wake up
+tags: dream nightmare  mum
+---
+
 凌晨4:35分，被噩梦吓醒。
 
 梦到两只恶兽，吓我和姨妈，我感到很恐惧，但我还是和他们搏斗；
@@ -33,3 +40,5 @@
 宁静甸甸 tuoleya
 
 9/6/2014 5:24:36 AM 
+
+9/9/2014 2:23:20 PM  Second revison at Lab 404
