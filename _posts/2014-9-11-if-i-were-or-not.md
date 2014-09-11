@@ -4,7 +4,8 @@ title: If I were or not
 category: school
 tags: communication position  positive  teachers 
 ---
-## 如果我是 ##
+如果我是或不是
+
 ###如果我是辅导员###
 
 如果我是辅导员，我首先该清楚自己所处的岗位及我的岗位职责。我是行政岗位上的教师，总的来说，我是为学生服务的。辅导员是在学生生活、学习和心里等等多方面对学生了解最多的，与学生接触最频繁、最密切的。
