@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 如无必要，勿增实体
-category:phylosophy
-tags: 奥卡姆剃刀 以简御繁
+title: 奥卡姆剃刀原理
+category:哲学
+tags: 奥卡姆剃刀 以简御繁 如无必要 勿增实体
 ---
 
-## 奥卡姆剃刀原理 ##
 
 即简单有效原理。避繁逐简；以简御繁；避虚就实；避重趋轻。
 
